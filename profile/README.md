@@ -5,7 +5,7 @@ Book by Péter Sólymos and Kalvin Eng
 - HTML version of the book: <https://h10y.github.io/book/>
 - Examples:
   - [`faithful`](https://github.com/h10y/faithful):
-    - Shinylive examples: <https://h10y.github.io/faithful/>
+    - Shiny and Shinylive examples: <https://h10y.github.io/faithful/>
   - [`bananas`](https://github.com/h10y/bananas)
   - [`lbtest`](https://github.com/h10y/lbtest)
     - Shinylive examples: <https://h10y.github.io/lbtest/>
